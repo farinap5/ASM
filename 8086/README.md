@@ -1,6 +1,6 @@
 # Assembly for 16bist processors
 
-The codes are written to work on Windows.
+The codes are written to work with windows upcodes.
 
 ## Registers
 | Register    | 16 | 8  | 8  |
